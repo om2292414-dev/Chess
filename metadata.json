@@ -1,0 +1,6 @@
+{
+  "name": "Grand Master Chess",
+  "description": "Offline Android chess application with full FIDE rules, pure Kotlin AI bots, tactical puzzles, Puzzle Rush, post-game analysis, PGN/FEN import/export, and local stats.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Grand Master Chess</string>
+    <string name="splash_title">GRAND MASTER CHESS</string>
+    <string name="splash_subtitle">BY CHIKU THE DEVELOPER</string>
+    <string name="splash_tap_hint">Tap anywhere to continue</string>
+
+    <string name="nav_home">Home</string>
+    <string name="nav_play">Play</string>
+    <string name="nav_puzzles">Puzzles</string>
+    <string name="nav_analysis">Analysis</string>
+    <string name="nav_stats">Stats</string>
+
+    <string name="cd_flip_board">Flip board orientation</string>
+    <string name="cd_settings">Open board and sound settings</string>
+    <string name="cd_hint">Show best move hint</string>
+    <string name="cd_takeback">Undo last move</string>
+    <string name="cd_resign">Resign current game</string>
+    <string name="cd_draw">Offer or accept draw</string>
+    <string name="cd_first_move">Go to starting position</string>
+    <string name="cd_prev_move">Previous move</string>
+    <string name="cd_next_move">Next move</string>
+    <string name="cd_last_move">Latest move</string>
+    <string name="cd_sound_toggle">Toggle sound effects</string>
+    <string name="cd_eval_bar">Engine evaluation bar</string>
+</resources>
